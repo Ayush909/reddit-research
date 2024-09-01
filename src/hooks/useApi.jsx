@@ -27,6 +27,8 @@ const useApi = (initialUrl = "", initialOptions = {}) => {
   useEffect(() => {
     if (url) {
       fetchData();
+    } else {
+      setData(null);
     }
   }, [url, fetchData]);
 
