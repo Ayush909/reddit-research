@@ -1,0 +1,17 @@
+t1_	Comment
+t2_	Account
+t3_	Link
+t4_	Message
+t5_	Subreddit
+t6_	Award
+
+https://www.reddit.com/subreddits/popular.json
+
+r/all/top
+r/[subreddit]/top
+
+https://www.reddit.com/r/all/top.json
+https://www.reddit.com/r/all/top.json?t=day
+https://www.reddit.com/r/all/top.json?t=week
+https://www.reddit.com/r/all/top.json?t=month
+https://www.reddit.com/r/all/top.json?t=year
